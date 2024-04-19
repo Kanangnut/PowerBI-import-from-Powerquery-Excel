@@ -1,1 +1,2 @@
-![image](https://github.com/Kanangnut/PowerBI-import-from-Powerquery-Excel/assets/130201193/85f55d13-0459-487e-8155-e5d52120eeb3)
+# SuperStore Sale Analysis Power BI import data from Powerquery Excel
+![image](https://github.com/Kanangnut/SuperStore-Sale-Analysis-PowerBI-import-from-Powerquery-Excel/blob/main/Power%20BI%20Dashboard.JPG)
